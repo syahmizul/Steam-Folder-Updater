@@ -1,0 +1,5 @@
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.exe
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.dll
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.deps.json
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.runtimeconfig.json
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.pdb

@@ -1,0 +1,5 @@
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.exe
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.dll
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.deps.json
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.runtimeconfig.json
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\publish\SteamFolderUpdater.pdb

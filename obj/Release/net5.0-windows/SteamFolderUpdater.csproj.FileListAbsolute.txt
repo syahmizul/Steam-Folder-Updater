@@ -1,0 +1,36 @@
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\SteamFolderUpdater.exe
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\SteamFolderUpdater.deps.json
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\SteamFolderUpdater.runtimeconfig.json
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\SteamFolderUpdater.runtimeconfig.dev.json
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\SteamFolderUpdater.dll
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\ref\SteamFolderUpdater.dll
+C:\Users\syahm\source\repos\SteamFolderUpdater\bin\Release\net5.0-windows\SteamFolderUpdater.pdb
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.Form1.resources
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.csproj.GenerateResource.cache
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.AssemblyInfoInputs.cache
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.AssemblyInfo.cs
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.csproj.CoreCompileInputs.cache
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.dll
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\ref\SteamFolderUpdater.dll
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.pdb
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.genruntimeconfig.cache
+C:\Users\syahm\source\repos\SteamFolderUpdater\obj\Release\net5.0-windows\SteamFolderUpdater.csproj.AssemblyReference.cache
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\SteamFolderUpdater.exe
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\SteamFolderUpdater.deps.json
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\SteamFolderUpdater.runtimeconfig.json
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\SteamFolderUpdater.runtimeconfig.dev.json
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\SteamFolderUpdater.dll
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\ref\SteamFolderUpdater.dll
+D:\GitHub Repos\steamfolderupdater\bin\Release\net5.0-windows\SteamFolderUpdater.pdb
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.csproj.AssemblyReference.cache
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.Form1.resources
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.csproj.GenerateResource.cache
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.AssemblyInfoInputs.cache
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.AssemblyInfo.cs
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.dll
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\ref\SteamFolderUpdater.dll
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.pdb
+D:\GitHub Repos\steamfolderupdater\obj\Release\net5.0-windows\SteamFolderUpdater.genruntimeconfig.cache
